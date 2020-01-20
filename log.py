@@ -19,7 +19,7 @@ def menu():
                 print("")
                 e = getpass('\033[1;92mPassword \033[1;93m: ')
                 print ("")
-                if x=="Username" and e=="Password":
+                if x=="ABELLARD" and e=="MAIN IT":
                    print('Login Sukses Mohon Tunggu Sebentar...')
                    time.sleep(1)
                    os.system('clear')
